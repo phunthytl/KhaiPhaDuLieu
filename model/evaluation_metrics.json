@@ -1,0 +1,21 @@
+{
+  "global": {
+    "rmse": 1.969030763719158,
+    "mae": 1.733924274969045,
+    "train_size": 785392,
+    "test_size": 195672,
+    "train_set_size": 785392,
+    "test_set_size": 195672
+  },
+  "ranking_metrics": {
+    "method": "top10_movies_per_user_test_pool",
+    "description": "Ch\u1ec9 user c\u00f3 \u226510 rating trong test; trong c\u00e1c phim \u0111\u00f3, l\u1ea5y top 10 theo predicted_rating; relevant = rating >= 4.",
+    "k": 10,
+    "min_test_ratings_per_user": 10,
+    "relevance_rating_min": 4.0,
+    "users_evaluated": 4331,
+    "precision_at_10": 0.714638651581621,
+    "recall_at_10": 0.4540347101079851,
+    "ndcg_at_10": 0.7687437508203188
+  }
+}

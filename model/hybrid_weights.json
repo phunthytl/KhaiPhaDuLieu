@@ -1,0 +1,17 @@
+{
+  "Tier1_New": {
+    "CF": 0.25,
+    "Content": 0.35,
+    "Demographic": 0.4
+  },
+  "Tier2_Medium": {
+    "CF": 0.45,
+    "Content": 0.3,
+    "Demographic": 0.25
+  },
+  "Tier3_Old": {
+    "CF": 0.7,
+    "Content": 0.15,
+    "Demographic": 0.15
+  }
+}
