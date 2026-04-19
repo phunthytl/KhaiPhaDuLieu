@@ -1,4 +1,7 @@
-data/
+final_dataset.csv
+user_segments.csv
+movies_processed.csv
+users_processed.csv
+ratings_processed.csv
 model/*.pkl
-*.csv
 create_data.py
